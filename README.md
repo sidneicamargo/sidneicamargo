@@ -2,7 +2,6 @@
 
 - 🌱 Cursando Ciencias da Computação
 <div style="display: inline_block"><br>
-  <img align="right" alt="Chrono" src="![LegitimateDelectableJaguar-size_restricted](https://user-images.githubusercontent.com/86209945/172026510-e3fd65e9-9463-4d38-b936-c1095f3e3c4a.gif)">
 </div>
 <div>
 	<a href="https://github.com/sidneicamargo">
