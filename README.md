@@ -14,8 +14,8 @@
 
 ### 👋 Sobre mim
 
-Sou o Sidnei, um profissional de QA apaixonado por qualidade, automação e aprendizado constante.  
-Atualmente atuo com automação de testes para aplicações web e APIs REST, utilizando **Cypress**, **Postman**, e explorando tecnologias como **React** e **C#** para crescer como desenvolvedor.
+Sou o Sidnei, um profissional de QA focado em qualidade, automação e aprendizado constante.  
+Atualmente atuo com automação de testes para aplicações web e APIs REST, utilizando **Cypress**, **Postman**, e explorando tecnologias como **React** e **C#**.
 
 Tenho experiência com:
 - Testes E2E com Cypress
