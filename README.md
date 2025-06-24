@@ -1,13 +1,12 @@
-<h1 align="center">Sidnei Camargo 👨‍💻</h1>
+<h1 align="center">Sidnei Camargo 🦝</h1>
 
 <p align="center">
   QA | Automação de Testes | Explorando React & C#
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/seulink"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>
-  <a href="mailto:seuemail@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail"></a>
-  <img alt="Status" src="https://img.shields.io/badge/Coffee-%E2%98%95-brightgreen?style=flat">
+  <a href="https://www.linkedin.com/in/-sidneicamargo-"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>
+  <a href="mailto:sidneicamargof@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail"></a>
 </p>
 
 ---
