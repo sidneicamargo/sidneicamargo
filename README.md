@@ -1,49 +1,66 @@
-<h1 align="center">Sidnei Camargo 🦝</h1>
+ 
+<div align="center">
 
-<p align="center">
-  QA | Automação de Testes | Explorando React & C#
-</p>
+# Sidnei Camargo 🦝
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/-sidneicamargo-"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>
-  <a href="mailto:sidneicamargof@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail"></a>
-  <a href="https://instagram.com/tamandua_bandeira/"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram"></a>
-</p>
+**QA Analyst | Test Automation | Software Quality**
 
----
+*Qualidade de software através de testes, automação e melhoria contínua.*
 
-### 👋 Sobre mim
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-sidneicamargo-)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sidneicamargof@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tamandua_bandeira/)
 
-Sou o Sidnei, um profissional de QA focado em qualidade, automação e aprendizado constante.  
-Atualmente atuo com automação de testes para aplicações web e APIs REST, utilizando **Cypress**, **Postman** e **Playwright**.
-
-Tenho experiência com:
-- Testes E2E com Cypress
-- Testes de API com Postman & Scripts JS
-- Versionamento com Git/GitHub
-- Pipelines de CI/CD no Azure DevOps
+</div>
 
 ---
 
-### 🛠️ Tech Stack & Ferramentas
+### 👨‍💻 Sobre mim
 
-🔹 Cypress &nbsp;&nbsp; 🔹 Postman &nbsp;&nbsp; 🔹 Swagger  
-🔹 JavaScript &nbsp;&nbsp; 🔹 TypeScript &nbsp;&nbsp; 🔹 C# (estudando)  
-🔹 Git & GitHub &nbsp;&nbsp; 🔹 Azure DevOps &nbsp;&nbsp; 🔹 Visual Studio Code  
-🔹 Sentry &nbsp;&nbsp; 🔹 Insomnia &nbsp;&nbsp; 🔹 REST APIs
+Sou formado em **Ciência da Computação** e atuo na área de **Quality Assurance (QA)**, com foco na garantia da qualidade de software por meio de testes funcionais, automatizados e de APIs.
+
+Tenho experiência na criação e manutenção de testes automatizados para aplicações web, validação de APIs REST, testes de performance e documentação de evidências de testes.
+
+Busco desenvolver soluções que contribuam para a **confiabilidade, estabilidade e qualidade das aplicações**, além de tornar os processos de teste mais eficientes.
+
+### 🎯 Áreas de atuação
+
+- 🧪 **Testes Funcionais:** planejamento, execução e documentação de cenários de teste.
+- 🤖 **Automação E2E:** desenvolvimento de testes automatizados com Playwright e Cypress.
+- 🔗 **Testes de API:** validação de endpoints REST com Postman, scripts JavaScript e Newman.
+- 📊 **Testes de Performance:** execução de testes de carga e análise de métricas utilizando k6.
+- 🔄 **CI/CD:** organização e integração de testes com Azure DevOps.
+- 📝 **Documentação:** criação de relatórios, evidências e documentação técnica de testes.
+- 🗄️ **Banco de Dados:** consultas e validações de dados com SQL e PostgreSQL.
 
 ---
 
-### 🧰 Minhas ferramentas favoritas
+### 🛠️ Tecnologias e Ferramentas
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white
+**Automação e Testes**
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
+![Newman](https://img.shields.io/badge/Newman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+**Linguagens**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**DevOps e Versionamento**
+
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+**Outras Ferramentas**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+---
